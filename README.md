@@ -1,5 +1,8 @@
 # Neural Synchronisation Collaborative Learning System
+![neura](https://github.com/akanksha-2002/NeuralSynchAI/assets/94109994/3e2d5196-5c10-4f04-b558-02c5da3329b8)
+
 The Neural Synchronisation Collaborative Learning System is a platform designed to moderate group discussions by encouraging balanced participation, providing mental health support, and ensuring readability for individuals with essential tremors. It integrates real-time feedback mechanisms, sentiment analysis, and speech recognition to create an inclusive and supportive environment for all participants.
+
 
 ## FEATURES
 The platform facilitates group discussions by:
